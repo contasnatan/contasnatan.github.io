@@ -1,0 +1,32 @@
+/*
+ * Customizações feitas pela Integrate. 
+ */
+
+.col-sm-1.hidden-sm.hidden-xs {
+    float: right;
+    width: 400px;
+}
+
+.col-sm-1.hidden-sm.hidden-xs p {
+	margin: 15px 0 0 0;
+	color: #fff;
+}
+
+.footer-social ul li a.plus:hover {
+  background: #cb2027;
+  color: #ffffff;
+}
+
+.footer-social ul li a.instagram:hover {
+  background: #f25fc3;
+  color: #ffffff;
+}
+
+.sp-simpleportfolio-filter ul li[data-group="all"] {
+	display: none !important;
+}
+
+.com_content.view-article.itemid-672.newsletter.j35.mm-hover .wrap.t3-navhelper.banner,
+.com_content.view-article.itemid-673.newsletter.j35.mm-hover .wrap.t3-navhelper.banner {
+	height: 75px;
+}
